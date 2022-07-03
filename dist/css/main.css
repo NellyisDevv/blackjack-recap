@@ -82,4 +82,9 @@ body {
   font-family: "Secular One", sans-serif;
   text-align: center;
   padding: 20px;
+}
+
+#split-info {
+  border: 2px solid rgb(139, 107, 65);
+  width: 80%;
 }/*# sourceMappingURL=main.css.map */
